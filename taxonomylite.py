@@ -5,6 +5,9 @@ a descended from another, but don't need a full phylogenetic tree manipulation l
 The library is just a single file that depends only upon the standard library.
 You can easily embed it in another library by copying this script.
 
+This module is modified from https://pythonhosted.org/taxonomylite/
+
+
 from taxonomylite import Taxonomy
 
 taxa_db = Taxonomy("taxonomy.db")

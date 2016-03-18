@@ -1,1 +1,3 @@
 taxonomy.db
+*.fasta
+*.pyc
